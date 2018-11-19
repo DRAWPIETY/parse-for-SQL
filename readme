@@ -1,0 +1,2 @@
+It's a parse to sql.
+It only can analysis 'SELET list FORM table ORDER BY list' and 'SELCET AVG(list) FROM table'.
